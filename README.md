@@ -1,2 +1,3 @@
-# chia-fork-farmer
-A program farming on multiple chia forks simultaneously
+# super-farmer
+
+Super-Farmer是mxpool.org推出的Chia及Chia分叉币多挖程序。
