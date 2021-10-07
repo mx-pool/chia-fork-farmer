@@ -1,10 +1,14 @@
-# super-farmer
+# Super Farmer
 
-Super-Farmer是MXPOOL推出的Chia及Chia分叉币多挖程序。
+SuperFarmer是MXPOOL推出的Chia及Chia分叉币多挖程序。
 
- * 只需要运行一个程序，就可以同时挖10个收益最高的分叉币
- * 可动态设置耕种的币种
- * 程序绿色轻量，压缩后只有6M
+ * 收益高, 一个程序可以同时挖10个收益最高的分叉币
+ * 速度快, 无需同步节点，安装后可立即耕种
+ * 安装易, 只需要运行一个程序，安装配置简单
+ * 配置活, 可动态设置想挖的币种
+ * 轻量级, 程序绿色轻量，压缩后只有6M
+ * 收益稳定, 进入矿池可获得稳定收益
+ * 提现方便, 不同分叉币的收益，可统一折算成xch提取
 
 ## 安装使用
  * [SuperFarmer 安装使用](https://github.com/mx-pool/super-farmer/wiki/SuperFarmer-%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
