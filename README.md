@@ -29,3 +29,6 @@ SuperFarmer是MXPOOL推出的Chia及Chia分叉币多挖程序。
  
  为确保钱包密钥的安全，建议P图/耕种的密钥和钱包的密钥分开。即在一台非耕种的机器上创建一个新的钱包助记符,和耕种使用不同的密钥。
 
+## 联系方式
+
+Telegram: https://t.me/mxpool
