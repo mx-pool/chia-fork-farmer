@@ -1,4 +1,4 @@
-# Super Farmer
+# Super Farmer (测试中)
 
 SuperFarmer是MXPOOL推出的Chia及Chia分叉币多挖程序。
 
