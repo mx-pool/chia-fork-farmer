@@ -10,6 +10,8 @@ SuperFarmer是MXPOOL推出的Chia及Chia分叉币多挖程序。
  * 收益稳定, 进入矿池可获得稳定收益
  * 提现方便, 不同分叉币的收益，可统一折算成xch提取
 
+注意: 系统还在测试阶段，会有一些问题，请试验性的使用。
+
 ## 安装使用
  * [SuperFarmer 安装使用](https://github.com/mx-pool/super-farmer/wiki/SuperFarmer-%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
  * SuperFarmer 升级: 解压后覆盖之前的版本文件
